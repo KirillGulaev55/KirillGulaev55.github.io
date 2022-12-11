@@ -111,36 +111,7 @@ button{
     font-size: 22px;
 }
 
-.prime{
-    min-height: 400px;
-    background-color: #fff;
-    padding-top: 60px;
-}
 
-.icons2{
-    width: 400px;
-    height: 400px;
-}
-
-
-
-.prime .items{
-    width: 110px;
-    height: 110px;
-    background-color: rgb(157, 199, 255);
-    border-radius: 50%;
-    display: block;
-    margin: 0 auto;
-    padding-top: 20px;
-}
-
-.prime_text{
-    text-align: center;
-    width: 150px;
-    position: relative;
-    right: 20px;
-    top: 30px;
-}
 
 .siden{
     padding-top: 100px;
